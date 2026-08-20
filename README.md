@@ -33,6 +33,8 @@ I'm Nipuni. This is the back-office system I built for **Salon Nipuni** — I wa
 It's not a tutorial project — every module here exists because the salon genuinely needed it (chasing no-shows, tracking loyalty points, working out who cancelled what and why, etc). Still adding to it whenever I find time.
 
 <br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<br/>
 
 ## What it actually does
 
@@ -163,7 +165,9 @@ Switching providers is just one property. If neither key is set, `/v1/chat` just
 
 <div align="center">
 
-Built and maintained by **Nipuni Nilsha** for Salon Nipuni.
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100">
+
+_Built and maintained by 💛 **Nipuni Nilsha** for Salon Nipuni._
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 
