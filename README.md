@@ -167,7 +167,7 @@ A demo admin account is seeded automatically on first run:
 
 | Username | Password |
 |---|---|
-| `amg` | `amg123` |
+| `nipuni` | `nipuni123` |
 
 ---
 
@@ -177,7 +177,7 @@ All configuration lives in `src/main/resources/application.properties` and is ov
 
 | Variable | Purpose | Default |
 |---|---|---|
-| `DB_USERNAME` / `DB_PASSWORD` | MySQL credentials | `root` / `mysql` |
+| `DB_USERNAME` / `DB_PASSWORD` | MySQL credentials | `root` / `1234` |
 | `JWT_SECRET` | Secret used to sign JWTs | *(pre-set — change in production!)* |
 | `MAIL_HOST` / `MAIL_USERNAME` / `MAIL_PASSWORD` | SMTP for booking & low-stock alerts | Gmail SMTP |
 | `SALON_WHATSAPP_NUMBER` | WhatsApp number for booking confirmations | `94785245772` |
