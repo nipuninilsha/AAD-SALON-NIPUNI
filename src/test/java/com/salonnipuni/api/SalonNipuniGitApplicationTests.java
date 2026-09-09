@@ -1,4 +1,4 @@
-package com.salon_nipuni_Git.salon_nipuni_Git;
+package com.salonnipuni.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
