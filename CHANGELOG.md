@@ -14,3 +14,4 @@
 - minor update part 14
 - minor update part 15
 - minor update part 16
+- minor update part 17
