@@ -9,3 +9,4 @@
 - minor update part 9
 - minor update part 10
 - minor update part 11
+- minor update part 12
