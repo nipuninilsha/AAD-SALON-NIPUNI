@@ -3,3 +3,4 @@
 - minor update part 3
 - minor update part 4
 - minor update part 5
+- minor update part 6
