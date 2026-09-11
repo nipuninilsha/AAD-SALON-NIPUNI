@@ -24,3 +24,4 @@
 - minor update part 4
 - minor update part 5
 - minor update part 1
+- minor update part 2
