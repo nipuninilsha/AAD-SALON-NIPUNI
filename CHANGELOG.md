@@ -25,3 +25,4 @@
 - minor update part 5
 - minor update part 1
 - minor update part 2
+- minor update part 3
